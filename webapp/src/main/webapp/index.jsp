@@ -3,4 +3,4 @@
 
 
 <h2> Deployment using - Jenkins, Ansible, Docker </h2>
-<h1> Continuous Integration - Continuous Delivery......CI-CD
+<h1> Continuous Integration - Continuous Deployment......CI-CD
