@@ -2,5 +2,5 @@
 
 
 
-<h2> Deployment using - Jenkins, Ansible, Docker </h2>
+<h2> Deployment using - Jenkins, Maven, Tomcat </h2>
 <h1> Continuous Integration - Continuous Deployment......CI-CD
